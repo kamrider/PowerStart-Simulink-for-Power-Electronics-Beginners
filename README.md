@@ -22,7 +22,7 @@
 - **内容**：对逆变器的工作进行仿真，掌握其在连接储能单元至电网等应用中的关键作用。
 
 ## 学习资源
-- **视频教程**：观看配套的学习视频，加深理解和操作技能。视频来源于[观看视频](https://www.bilibili.com/video/BV1xz411B7cV/?spm_id_from=333.999.0.0&vd_source=0ff9e81bc9756986c783a21ba995b871)
+- **视频教程**：观看配套的学习视频，加深理解和操作技能。视频来源于B站up主西瓜粥西瓜粥的电力电子仿真 MATLAB/Simulink 基础篇系列视频[观看视频](https://www.bilibili.com/video/BV1xz411B7cV/?spm_id_from=333.999.0.0&vd_source=0ff9e81bc9756986c783a21ba995b871)
 
 ## 如何开始
 - **步骤一**：克隆此代码库到本地。
