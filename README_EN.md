@@ -1,7 +1,7 @@
 # PowerStart: Simulink for Power Electronics Beginners
 ## Additional Resources
 - [英文版说明 (English Version)](README_EN.md)
-- [中文版说明 (Chinese Version)](README_ZH.md)
+- [中文版说明 (Chinese Version)](README.md)
 
 ## Project Overview
 **PowerStart** is a Simulink simulation project designed specifically for beginners in power electronics. This project offers detailed tutorials and simulations covering basic power electronic circuits such as AC-AC, AC-DC, DC-DC, and DC-AC converters. The goal is to help users understand the operational principles of these circuits through hands-on practice and to see their performance in various applications.
