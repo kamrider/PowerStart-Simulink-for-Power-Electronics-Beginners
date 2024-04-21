@@ -1,5 +1,7 @@
 # PowerStart-Simulink-for-Power-Electronics-Beginners
-
+## 额外资源
+- [英文版说明 (English Version)](README_EN.md)
+- [中文版说明 (Chinese Version)](README_ZH.md)
 ## 项目概览
 **PowerStart** 是一个专为电力电子初学者设计的Simulink仿真项目。本项目通过详细的教程和仿真，涵盖了AC-AC、AC-DC、DC-DC和DC-AC等基本电力电子电路。目标是帮助用户通过实际操作理解这些电路的工作原理及其在各种应用中的表现。
 
