@@ -1,2 +1,31 @@
 # PowerStart-Simulink-for-Power-Electronics-Beginners
-本项目覆盖了AC-AC、AC-DC、DC-DC和DC-AC的基本电路仿真，旨在通过实际操作帮助用户理解电力电子的基本原理和应用。 It includes basic circuit simulations for AC-AC, AC-DC, DC-DC, and DC-AC, aimed at helping users understand the fundamental principles and applications of power electronics. 
+
+## 项目概览
+**PowerStart** 是一个专为电力电子初学者设计的Simulink仿真项目。本项目通过详细的教程和仿真，涵盖了AC-AC、AC-DC、DC-DC和DC-AC等基本电力电子电路。目标是帮助用户通过实际操作理解这些电路的工作原理及其在各种应用中的表现。
+
+## 主要功能
+
+### AC-AC变换器仿真
+- **目标**：掌握AC-AC变换器的工作原理。
+- **内容**：仿真不同类型的AC-AC电路，学习其操作原则，并观察在各种条件下的表现。
+
+### AC-DC变换器教程
+- **目标**：了解如何将交流电转换成直流电。
+- **内容**：通过仿真整流器电路，深入理解其在实际应用中的使用。
+
+### DC-DC变换器实验
+- **目标**：深入了解DC-DC变换器的工作方式。
+- **内容**：进行降压、升压和降升压变换器的仿真，观察电压如何被高效转换。
+
+### DC-AC逆变器项目
+- **目标**：学习逆变器如何将直流电转换回交流电。
+- **内容**：对逆变器的工作进行仿真，掌握其在连接储能单元至电网等应用中的关键作用。
+
+## 学习资源
+- **视频教程**：观看配套的学习视频，加深理解和操作技能。视频来源于[观看视频](https://www.bilibili.com/video/BV1xz411B7cV/?spm_id_from=333.999.0.0&vd_source=0ff9e81bc9756986c783a21ba995b871)
+
+## 如何开始
+- **步骤一**：克隆此代码库到本地。
+- **步骤二**：确保你的计算机上安装了MATLAB。
+- **步骤三**：打开 `.slx` 后缀的文件开始学习。
+- **步骤四**：按照每个仿真教程逐步操作，完成所有教程，以构建对电力电子各种电路的深入理解。
